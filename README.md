@@ -30,5 +30,5 @@ Date:     2018-08-09
 2.  Add .gitignore file with node_modules
 3.  git add .
 4.  git commit -a -m "Routing examples"
-5.  git remote add origin https://github.com/robertfg/fetch-examples.git
+5.  git remote add origin https://github.com/robertfg/res-locals-examples.git
 6.  git push --set-upstream origin master
